@@ -1,0 +1,1 @@
+This repository demonstrates a common logic error in C#: forgetting to increment a counter variable. The `bug.cs` file contains the erroneous code, where the variable `x` is never incremented, leading to the condition `x == 5` always being true. The `bugSolution.cs` file provides the corrected code with the necessary increment added.
